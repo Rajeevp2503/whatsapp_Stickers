@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.ProfessionalCiphers.whatsappsticker">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+
+    <application
+        android:allowBackup="false"
+        android:fullBackupContent="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:name="com.ProfessionalCiphers.whatsappsticker.StickerApplication"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+
+        <!--Activity 1-->
+
+        <activity android:name="com.ProfessionalCiphers.whatsappsticker.EntryActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--Activity 2-->
+
+        <activity
+            android:name="com.ProfessionalCiphers.whatsappsticker.StickerPackListActivity"
+            android:label="@string/title_activity_sticker_packs_list" />
+
+        <!--Activity 3-->
+
+        <activity
+            android:name="com.ProfessionalCiphers.whatsappsticker.StickerPackDetailsActivity"
+            android:parentActivityName="com.ProfessionalCiphers.whatsappsticker.StickerPackListActivity"
+            tools:ignore="UnusedAttribute">
+
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ProfessionalCiphers.whatsappsticker.StickerPackListActivity" />
+        </activity>
+
+        <activity
+            android:name="com.ProfessionalCiphers.whatsappsticker.StickerPackInfoActivity"
+            android:label="@string/title_activity_sticker_pack_info"
+            android:parentActivityName="com.ProfessionalCiphers.whatsappsticker.StickerPackDetailsActivity"
+            tools:ignore="UnusedAttribute">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ProfessionalCiphers.whatsappsticker.StickerPackDetailsActivity" />
+        </activity>
+
+        <provider
+            android:name="com.ProfessionalCiphers.whatsappsticker.StickerContentProvider"
+            android:authorities="${contentProviderAuthority}"
+            android:enabled="true"
+            android:exported="true"
+            android:readPermission="com.whatsapp.sticker.READ" />
+
+
+      Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713
+    <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
+
+    </application>
+</manifest>

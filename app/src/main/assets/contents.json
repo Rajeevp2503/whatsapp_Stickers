@@ -1,0 +1,308 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+
+
+    {
+      "identifier": "1",
+      "name": "Project Name 1",
+      "publisher": "Publisher Name",
+      "tray_image_file": "pic.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "2",
+      "name": "Project Name 2",
+      "publisher": "Publisher Name",
+      "tray_image_file": "pic.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "3",
+      "name": "Project Name 3",
+      "publisher": "Publisher Name",
+      "tray_image_file": "pic.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "4",
+      "name": "Project Name 4",
+      "publisher": "Publisher Name",
+      "tray_image_file": "pic.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "5",
+      "name": "Project Name 5",
+      "publisher": "Publisher Name",
+      "tray_image_file": "pic.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "6",
+      "name": "Project Name 6",
+      "publisher": "Publisher Name",
+      "tray_image_file": "pic.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "7",
+      "name": "Project Name 7",
+      "publisher": "Publisher Name",
+      "tray_image_file": "pic.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "8",
+      "name": "Project Name 8",
+      "publisher": "Publisher Name",
+      "tray_image_file": "pic.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "9",
+      "name": "Project Name 9",
+      "publisher": "Publisher Name",
+      "tray_image_file": "pic.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "10",
+      "name": "Project Name 10",
+      "publisher": "Publisher Name",
+      "tray_image_file": "pic.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    }
+
+  ]
+}

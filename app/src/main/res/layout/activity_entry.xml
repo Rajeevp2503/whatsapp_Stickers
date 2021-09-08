@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:background="@drawable/bg_styel"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:textColor="@android:color/holo_red_dark"
+        android:id="@+id/error_message" />
+
+    <ProgressBar
+        android:visibility="gone"
+        android:id="@+id/entry_activity_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        />
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/image_fast"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@drawable/launcher_image" />
+
+        <TextView
+            android:id="@+id/tittle1"
+            android:layout_marginTop="10dp"
+            android:textSize="30dp"
+            android:textColor="#000"
+            android:gravity="center"
+            android:text="Stickers For WhatsApp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+
+
+
+</FrameLayout>
